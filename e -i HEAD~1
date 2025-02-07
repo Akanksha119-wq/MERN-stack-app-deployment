@@ -1,0 +1,230 @@
+[33m5560a4b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m Updated environment variables
+[33mcefee9f[m Update home-page.tsx
+[33m8d4cdde[m Updated environment variables
+[33mec88d71[m Updated environment variables
+[33m53f0b26[m Updated environment variables
+[33m07d22d8[m Update frontend.yaml
+[33mbd7a785[m Update backend.yaml
+[33m4f1d668[m Updated environment variables
+[33m64877d2[m Updated environment variables
+[33md894a40[m Update updatebackendnew.sh
+[33m3f6793d[m Update updatefrontendnew.sh
+[33meba00e5[m Updated environment variables
+[33m2dad337[m Updated environment variables
+[33ma427e3a[m Update updatefrontendnew.sh
+[33mcab3f1b[m Update updatebackendnew.sh
+[33mfa06c54[m Added docker image version
+[33m674ed94[m Updated environment variables
+[33m6872ac5[m Update home-page.tsx
+[33m133ff7f[m added docker images changes
+[33mbd5c228[m Update backend.yaml
+[33m02626d0[m Update frontend.yaml
+[33m0b468be[m Update frontend.yaml
+[33m0c66b24[m Update backend.yaml
+[33m6985dcc[m Updated environment variables
+[33m43e8c26[m Add files via upload
+[33m81578ac[m Create terraform.tf
+[33md57158e[m Updated environment variables
+[33m860367d[m Updated environment variables
+[33m09a4502[m Update updatefrontendnew.sh
+[33m07a468d[m Update updatebackendnew.sh
+[33m918f149[m Update Jenkinsfile
+[33md54a1d2[m Updated environment variables
+[33mcad8822[m Added new ip
+[33m29876a1[m Updated environment variables
+[33m7855b9d[m Updated environment variables
+[33m108256d[m Added new ip
+[33mb709467[m Update frontend.yaml
+[33me90ebf7[m Update backend.yaml
+[33m4fcf913[m Updated environment variables
+[33m2c49fca[m Update Jenkinsfile
+[33m717ee08[m Update README.md
+[33mfe4b9bf[m Update Jenkinsfile
+[33m2550dd7[m Update Jenkinsfile
+[33m256b89d[m Update updatefrontendnew.sh
+[33m4ad3503[m Update updatebackendnew.sh
+[33mc3e3d39[m Update README.md
+[33m866ce62[m testing docker compose
+[33md6ff649[m Update README.md
+[33mbb39ce8[m Merge pull request #1 from dheeruyadav54/main
+[33m2de10c7[m Update README.md
+[33m3c24a58[m Update README.md
+[33mb893749[m Update README.md
+[33me98b3bd[m Update README.md
+[33m20267a4[m Updated environment variables
+[33mda78911[m Update Jenkinsfile
+[33mf7f5f66[m Updated environment variables
+[33mc648e84[m Update Jenkinsfile
+[33m6916dd0[m Updated environment variables
+[33ma6dc626[m Update Jenkinsfile
+[33me241440[m Updated environment variables
+[33mfa938d8[m Update Jenkinsfile
+[33m68cdf1c[m Update Jenkinsfile
+[33m8bc2f17[m Updated environment variables
+[33m4e33d45[m Updated environment variables
+[33m1cf77bc[m Update README.md
+[33mefca917[m Update Jenkinsfile
+[33m4fe9b0f[m Updated environment variables
+[33ma0127e2[m Update README.md
+[33md82cf68[m Update updatebackendnew.sh
+[33m91df3c9[m Update updatefrontendnew.sh
+[33ma24d1f2[m Update README.md
+[33m90e6469[m Update README.md
+[33m6786664[m Update README.md
+[33m57298b6[m Update README.md
+[33m1397bb7[m Update README.md
+[33m99a4d62[m Update README.md
+[33md782d75[m Update README.md
+[33me32eb19[m Update README.md
+[33m97d0b08[m Update README.md
+[33m5a134d0[m Update README.md
+[33m134d170[m Update README.md
+[33m3a66f09[m Update README.md
+[33m0b08593[m Update README.md
+[33macfe183[m Update README.md
+[33m5ed95d8[m Update mongodb.yaml
+[33m129bfd1[m Delete backend/Dockerfilemongo
+[33m1710450[m Added custom mongo dockerfile
+[33m008843e[m Update Jenkinsfile
+[33me897798[m Update README.md
+[33ma38e66e[m Update README.md
+[33mf071479[m Update README.md
+[33m4f75261[m Update README.md
+[33mad9941f[m Update frontend.yaml
+[33m233ee7c[m Update backend.yaml
+[33mbc329de[m Update frontend.yaml
+[33m534e29a[m Update backend.yaml
+[33m32cd74c[m Delete kubernetes/ingress.md
+[33ma212fbb[m Delete kubernetes/ingress.yaml
+[33me8dcd2e[m Update README.md
+[33m400d45b[m Add files via upload
+[33mafaf5f5[m Create README.md
+[33m3953ee8[m Delete Assets directory
+[33m65e89d1[m Add files via upload
+[33ma07e783[m Add files via upload
+[33m55146cb[m Added ingress files
+[33m0d00816[m Update README.md
+[33m59f22bf[m Update README.md
+[33m257a7dd[m Add files via upload
+[33m8672cf6[m Create README.md
+[33m4de1e28[m Delete Assets/README.md
+[33m31e85b2[m Create README.md
+[33mec15ac0[m Update README.md
+[33m19b6ba9[m Update README.md
+[33m718c086[m Delete Project-implementation.md
+[33m9630a19[m Update README.md
+[33ma71ee63[m Update README.md
+[33m9175e24[m Update README.md
+[33m3b03b44[m Update README.md
+[33m748161d[m Update Jenkinsfile
+[33m03731a9[m Update Jenkinsfile
+[33md0df2f3[m Update Project-implementation.md
+[33m5701e41[m Update Project-implementation.md
+[33m81287fc[m Update Project-implementation.md
+[33m9743978[m Updated environment variables
+[33m63dffcf[m Update Jenkinsfile
+[33m2bd86e0[m Update Project-implementation.md
+[33m1da4850[m Updated environment variables
+[33mdbda0e5[m Update Jenkinsfile
+[33m5dfe86f[m Update Jenkinsfile
+[33m49ad2aa[m Update Jenkinsfile
+[33mdd5db84[m Update Jenkinsfile
+[33m61a46a0[m Updated environment variables
+[33maa920c7[m Update Jenkinsfile
+[33me82dbf6[m Update Jenkinsfile
+[33mc9bdafc[m Update Project-implementation.md
+[33m229daa0[m Updated environment variables
+[33mebdee53[m Updated environment variables
+[33m9413b55[m Update Project-implementation.md
+[33m60d7d6d[m Update Jenkinsfile
+[33mf5544b9[m Update Jenkinsfile
+[33m2b6905b[m Update Jenkinsfile
+[33m19be941[m Update Jenkinsfile
+[33meb00488[m Update Project-implementation.md
+[33m4416c4e[m Update updatefrontendnew.sh
+[33m9f7a7f7[m Update updatebackendnew.sh
+[33mfe0afbb[m Update Project-implementation.md
+[33mb570241[m Update Project-implementation.md
+[33m21de89b[m Update Project-implementation.md
+[33m549640d[m Update Project-implementation.md
+[33m2eae95c[m Update Project-implementation.md
+[33mafb41e1[m Update Project-implementation.md
+[33maf62984[m Update Project-implementation.md
+[33mcb4e063[m Update Project-implementation.md
+[33mb6c152f[m Update Project-implementation.md
+[33m98ea5c0[m Update Project-implementation.md
+[33m590cca9[m Update Jenkinsfile
+[33m3b3e39f[m Updated environment variables
+[33m2b109ef[m Update home-page.tsx
+[33m73d7e42[m Update Jenkinsfile
+[33m2c1b3f0[m Update Jenkinsfile
+[33ma47d538[m Updated environment variables
+[33m01ddff8[m Updated environment variables
+[33m41183b3[m Update Jenkinsfile
+[33mcc62caa[m Updated environment variables
+[33me4c0d31[m Updated environment variables
+[33m3fca3fd[m Update Jenkinsfile
+[33m4ef46c9[m Update Project-implementation.md
+[33m4eca58a[m Update Jenkinsfile
+[33m342181a[m Update Jenkinsfile
+[33m922095c[m Update updatefrontendnew.sh
+[33mce2f484[m Update updatebackendnew.sh
+[33m1371c43[m Update Jenkinsfile
+[33m793002d[m Update Project-implementation.md
+[33m71a0254[m Update updatefrontendnew.sh
+[33mddacc6c[m Update updatebackendnew.sh
+[33m9a3fce7[m Update Project-implementation.md
+[33m088481d[m Update Jenkinsfile
+[33m7c9a250[m Update updatefrontendnew.sh
+[33m51d59e4[m Update updatebackendnew.sh
+[33m8d59db3[m Update Jenkinsfile
+[33me308221[m Update updatefrontendnew.sh
+[33me2419cf[m Update updatebackendnew.sh
+[33m2d415fe[m Update Project-implementation.md
+[33m7df63ee[m Update Project-implementation.md
+[33m416a38a[m Update Project-implementation.md
+[33me07edfe[m Update Project-implementation.md
+[33m3be850f[m Update Project-implementation.md
+[33m2f34af1[m Update Project-implementation.md
+[33m882f714[m Update Project-implementation.md
+[33m476c965[m Create Project-implementation.md
+[33m24f0e7a[m Update home-page.tsx
+[33m8a610f0[m Update backend.yaml
+[33m940a27c[m Updated environment variables
+[33m9a001d1[m Updated environment variables
+[33m8213491[m Update home-page.tsx
+[33m918cdda[m Updated environment variables
+[33m6fa58b1[m Update home-page.tsx
+[33mcee381c[m Updated environment variables
+[33me45e1fd[m Update home-page.tsx
+[33m1af64e6[m Updated environment variables
+[33mea1307e[m Updated environment variables
+[33m2369a52[m Update home-page.tsx
+[33m9b4c848[m Updated environment variables
+[33m48081a4[m Update updatebackendnew.sh
+[33mbd95d97[m Update updatefrontendnew.sh
+[33m5ec31b9[m Update updatefrontendnew.sh
+[33m2d8f90f[m Update updatebackendnew.sh
+[33mb25206e[m Update updatebackendnew.sh
+[33mb1d3098[m Update updatefrontendnew.sh
+[33m81c8b4e[m Update Dockerfile
+[33m92b104e[m Update backend.yaml
+[33m66ae121[m Update backend.yaml
+[33m49f1e80[m Update frontend.yaml
+[33m891a9bd[m Update redis.yaml
+[33m2f197a5[m Update mongodb.yaml
+[33m96cb7a6[m Update mongodb.yaml
+[33m4f7fa66[m Update redis.yaml
+[33mfaa8f05[m Update backend.yaml
+[33mb87af76[m Update frontend.yaml
+[33ma93d429[m Update frontend.yaml
+[33m1ea6f3c[m Update frontend.yaml
+[33mcd6a0de[m Update frontend.yaml
+[33mbaca554[m Update frontend.yaml
+[33m833d647[m Update frontend.yaml
+[33me9fad6c[m Update replica count on frontend.yaml
+[33m7bb2f49[m Main: Fix push issue
+[33mbe2ff5b[m Main: Added environment variables
+[33m09d0354[m Update server.js
+[33m47122c3[m Main: Updated environment variables for backend and frontnend
+[33m1c8d453[m Main: Added initial code
