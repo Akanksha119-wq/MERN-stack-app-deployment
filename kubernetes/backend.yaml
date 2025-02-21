@@ -18,7 +18,11 @@ spec:
     spec:
       containers:
         - name: backend
+<<<<<<< HEAD
           image: trainwithshubham/wanderlust-backend-beta:v2
+=======
+          image: trainwithshubham/wanderlust-backend-beta:v2.1
+>>>>>>> 891a6c9 (second commit)
           ports:
             - containerPort: 8080
 ---

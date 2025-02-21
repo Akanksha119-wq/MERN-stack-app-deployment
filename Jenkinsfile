@@ -32,7 +32,11 @@ pipeline {
         stage('Git: Code Checkout') {
             steps {
                 script{
+<<<<<<< HEAD
                     code_checkout("https://github.com/Akanksha119-wq/MERN-stack-app-deployment","main")
+=======
+                    code_checkout("https://github.com/LondheShubham153/Wanderlust-Mega-Project.git","main")
+>>>>>>> 891a6c9 (second commit)
                 }
             }
         }
